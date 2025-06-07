@@ -128,8 +128,9 @@ Luas dengan Riemann (n=4): 3412884.00
 Luas sebenarnya: 6710476.80
 Error true: 49.14
 ```
-
-
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/1a430c20-c6c2-416e-855e-48f67fda3ccf" width="600" />
+</div>
 Sekian dan Terima Kasih!
    
 
