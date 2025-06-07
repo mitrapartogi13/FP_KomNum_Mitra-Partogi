@@ -10,5 +10,5 @@ Anggota Kelompok A13 :
 Tujuan : Pemenuhan Tugas Final Project Komputasi Numerik. <br>
 Soal : 
 <div align="left">
-  <img src="![Image](https://github.com/user-attachments/assets/acbaa9b3-92c0-42bc-b9fd-0bec5c7b1d2d)" width="600" />
+  <img src="https://github.com/user-attachments/assets/acbaa9b3-92c0-42bc-b9fd-0bec5c7b1d2d" width="600" />
 </div>
