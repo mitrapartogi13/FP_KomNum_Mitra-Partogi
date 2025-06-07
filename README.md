@@ -7,5 +7,5 @@ Anggota Kelompok A13 :
 | 5025241017 | Mitra Partogi   |
 
 <h4>Penulis README = Mitra Partogi</h4>
-Tujuan : Pemenuhan Tugas Final Project Komputasi Numerik
+Tujuan : Pemenuhan Tugas Final Project Komputasi Numerik. <br>
 Soal : 
